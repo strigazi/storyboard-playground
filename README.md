@@ -1,6 +1,10 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+* binder.org [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/strigazi/storyboard-playground/master)
+
+* binder.cern.ch [![Binder](https://binder.cern.ch/badge_logo.svg)](https://binder.cern.ch/v2/gh/strigazi/storyboard-playground/master)
+
+
 
 A Binder-compatible repo with a `requirements.txt` file.
 
